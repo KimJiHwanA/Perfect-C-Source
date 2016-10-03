@@ -4,12 +4,12 @@
 
 int main(void)
 {
-	char a = '\0';
-	puts("¹®ÀÚ ÇÏ³ª ÀÔ·Â:");
-	a = getchar();
-	putchar(a); putchar('\n');
+ char a = '\0';
+ puts("ë¬¸ì í•˜ë‚˜ ì…ë ¥:");
+ a = getchar();
+ putchar(a); putchar('\n');
 
-	return 0;
+ return 0;
 
 
-}
+}\
